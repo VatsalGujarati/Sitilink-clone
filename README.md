@@ -1,6 +1,5 @@
-# sitilink Clone
-
-A new Flutter application.
+#Sutat Sitilink Clone
+This is clone app of 'Surat Sitilink'..
 
 ## Getting Started
 
